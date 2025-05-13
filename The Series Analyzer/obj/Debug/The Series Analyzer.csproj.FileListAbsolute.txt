@@ -1,0 +1,7 @@
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\bin\Debug\The Series Analyzer.exe.config
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\bin\Debug\The Series Analyzer.exe
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\bin\Debug\The Series Analyzer.pdb
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\obj\Debug\The Series Analyzer.csproj.AssemblyReference.cache
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\obj\Debug\The Series Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\obj\Debug\The Series Analyzer.exe
+C:\Users\israel\Desktop\תכנות\visual studio\The Series Analyzer\The Series Analyzer\obj\Debug\The Series Analyzer.pdb
