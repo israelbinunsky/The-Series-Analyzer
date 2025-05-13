@@ -91,7 +91,7 @@ namespace The_Series_Analyzer
             int[] ints = intArray();
             foreach (int i in ints)
             {
-                Console.WriteLine(i);
+                Console.Write(i);
             }
             return ints;
         }
@@ -100,19 +100,22 @@ namespace The_Series_Analyzer
         {
             foreach (int i in ints)
             { Console.Write($"{i} "); }
+            Console.WriteLine("\n");
         }
 
         static void reversed(int[] ints)
         {
         for (int i = ints.Length - 1; i >= 0; i--)
             { Console.Write($"{ints[i]} "); }
+        Console.WriteLine("\n");
         }
 
         static void sorted(int[] ints)
         {
             Array.Sort(ints);
             foreach (int i in ints)
-            { Console.Write($"{i} "); }
+            { Console.Write($"{i} ");}
+            Console.WriteLine("\n");
         }
 
         static void maxValue(int[] ints)
