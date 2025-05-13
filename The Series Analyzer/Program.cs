@@ -10,6 +10,21 @@ namespace The_Series_Analyzer
     {
         static void Main(string[] args)
         {
+        
         }
+        static string[] isFull(string[] args)
+        {
+            if (args.Length < 3)
+            {
+                args = Console.ReadLine().Split(' ');
+            }
+            return args;
+        }
+        static void menue() { 
+            Console.WriteLine("choose your choice between a - j");
+            string choice = Console.ReadLine();
+           
+        }
+
     }
 }
