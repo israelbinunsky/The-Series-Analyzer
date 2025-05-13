@@ -25,11 +25,10 @@ namespace The_Series_Analyzer
             int[] nums = new int[args.Length];
             for (int i = 0; i < args.Length; i++)
             {
-                int.TryParse(args[i], out int num);
+                bool isnum = int.TryParse(args[i], out int num);
+                if (isnum == false) { return intArray(); }
                 nums[i] = num;
             }
-            while (nums == null || nums.Length < 3)
-            { intArray(); }
             return nums;
         }
 
