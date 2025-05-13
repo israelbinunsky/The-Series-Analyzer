@@ -20,11 +20,7 @@ namespace The_Series_Analyzer
             }
             return args;
         }
-        static void menue() { 
-            Console.WriteLine("choose your choice between a - j");
-            string choice = Console.ReadLine();
-           
-        }
+        
 
     }
 }
